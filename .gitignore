@@ -1,0 +1,7 @@
+venv
+migrations
+__pycache__
+.vscode
+requirements.txt
+.env
+uploads
